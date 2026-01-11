@@ -7,6 +7,6 @@ download low or medium resolution.
 
 copy master playlist to the clipbord ( normally to be used in a video player ).
 
-copy the separate resolutions to the clipbord ( to be used in a m3u8 downloader ).
+copy the separate resolutions playlists to the clipbord ( to be used in a m3u8 downloader ).
 
 it's a userscript so you need a userscript manager , i made it with tampermonkey and firefox 
